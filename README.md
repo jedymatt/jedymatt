@@ -4,8 +4,8 @@
 
 Here are some of my small projects I created
 
-- [sqlalchemyseed]()
-- [NoteManager]()
+- [sqlalchemyseed](./sqlalchemyseed)
+- [NoteManager](./NoteManager)
 
 <!--
 **jedymatt/jedymatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
