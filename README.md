@@ -27,8 +27,8 @@ Frameworks I want to learn and will learn soon
 
 Here are some of my small projects I created
 
-- [sqlalchemyseed](https://github.com/jedymatt/sqlalchemyseed.git), Python library
-- [NoteManager](https://github.com/jedymatt/NoteManager.git), Laravel v8 web app
+- [sqlalchemyseed](https://github.com/jedymatt/sqlalchemyseed.git), a python library
+- [NoteManager](https://github.com/jedymatt/NoteManager.git), a simple web app using laravel 8
 
 
 Project that I will work on soon
