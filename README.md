@@ -4,7 +4,7 @@
 
 Education
 
-- 🌱 I’m currently learning in college with Bachelor of Science in Computer Science
+- I’m currently learning in college with Bachelor of Science in Computer Science
 
 
 List of programming languages that I learned and comfortable with
