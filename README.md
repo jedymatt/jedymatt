@@ -33,7 +33,7 @@ Here are some of my small projects I created
 
 Project that I will work on soon
 
-- Election System web app (A rewrite for my former project)
+- Election System web app (A rewrite of my former project)
 - LMS web app (in SPA)
 - Simple Space Shooting Game desktop app (In python)
 - Guessing Game desktop app (In java using javafx)
