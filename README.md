@@ -13,11 +13,14 @@ List of programming languages that I learned and comfortable with
 - Java
 - Php
 - Javascript
+- Dart
+- Visual Basic
 
 Frameworks that I am currently learning or have learned
 
 - Laravel
 - Express
+- Flutter
 
 Frameworks I want to learn and will learn soon
 
