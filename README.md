@@ -14,7 +14,7 @@ List of programming languages that I learned and comfortable with
 - Php
 - Javascript
 - Dart
-- Visual Basic
+- Visual Basic .NET
 
 Frameworks that I am currently learning or have learned
 
@@ -28,7 +28,7 @@ Frameworks I want to learn and will learn soon
 - React.js
 - Nuxt.js
 
-Here are some of my small projects I created
+Here are some of my small projects I created, finished or maintained:
 
 - [sqlalchemyseed](https://github.com/jedymatt/sqlalchemyseed.git), a python library
 - [NoteManager](https://github.com/jedymatt/NoteManager.git), a simple web app using laravel 8
