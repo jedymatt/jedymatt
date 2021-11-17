@@ -28,10 +28,14 @@ Frameworks I want to learn and will learn soon
 - React.js
 - Nuxt.js
 
+Projects that I'm currently working on:
+
+- [task_n_note](https://github.com/jedymatt/task_n_note), a task and note taking mobile application
+
 Here are some of my small projects I created, finished or maintained:
 
-- [sqlalchemyseed](https://github.com/jedymatt/sqlalchemyseed.git), a python library
-- [NoteManager](https://github.com/jedymatt/NoteManager.git), a simple web app using laravel 8
+- [sqlalchemyseed](https://github.com/jedymatt/sqlalchemyseed), a python library
+- [NoteManager](https://github.com/jedymatt/NoteManager), a simple web app using laravel 8
 
 
 Project that I will work on soon
