@@ -2,6 +2,8 @@
 
 # About Me
 
+![](https://komarev.com/ghpvc/?username=jedymatt)
+
 Education
 
 - I’m currently learning in college with Bachelor of Science in Computer Science
