@@ -1,8 +1,8 @@
 ### Hi there, Welcome to My Page 👋
 
-![](https://komarev.com/ghpvc/?username=jedymatt)
+![jedymatt's Github profile visits](https://komarev.com/ghpvc/?username=jedymatt)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedymatt)]
+![jedymatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedymatt)
 
 # About Me
 
