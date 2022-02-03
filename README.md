@@ -2,7 +2,7 @@
 
 ![jedymatt's Github profile visits](https://komarev.com/ghpvc/?username=jedymatt)
 
-![jedymatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedymatt)
+![jedymatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedymatt&theme=synthwave&show_icons=true)
 
 # About Me
 
