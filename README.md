@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **larave, vue, and tailwind**
 
-- ⚡ Fun fact **I can draw sketches, and solve rubik's cube,**
+- ⚡ Fun fact **I can draw sketches, and solve rubik's cube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
