@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [umtc-election](https://github.com/jedymatt/umtc-election)
 
-- 🌱 I’m currently learning **larave, vue, tailwind**
+- 🌱 I’m currently learning **larave, vue, and tailwind**
 
 - ⚡ Fun fact **I can draw sketches, and solve rubik's cube,**
 
