@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jedymatt" target="blank"><img src="https://img.shields.io/twitter/follow/jedymatt?logo=twitter&style=for-the-badge" alt="jedymatt" /></a> </p>
 
-- 🔭 I’m currently working on [umtc-election](https://github.com/jedymatt/umtc-election)
+- 🔭 I’m currently working on nothing as of now
 
-- 🌱 I’m currently learning **larave, vue, and tailwind**
+- 🌱 I’m currently learning **laravel, vue, and tailwind**
 
 - ⚡ Fun fact **I can draw sketches, and solve rubik's cube**
 
