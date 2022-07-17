@@ -26,6 +26,5 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-  ![snek dark](https://github.com/jedymatt/jedymatt/blob/cd8c87a35532e4e90e271791ebcd46d49375331e/github-contribution-grid-snake-dark.svg)
-  ![snek](https://github.com/jedymatt/jedymatt/blob/cd8c87a35532e4e90e271791ebcd46d49375331e/github-contribution-grid-snake.svg)
+  ![snek](https://raw.githubusercontent.com/jedymatt/jedymatt/output/github-contribution-grid-snake.svg)
   
