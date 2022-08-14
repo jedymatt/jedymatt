@@ -26,5 +26,3 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-  ![snek](https://raw.githubusercontent.com/jedymatt/jedymatt/output/github-contribution-grid-snake.svg)
-  
