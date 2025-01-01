@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jedymatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+[Ko-fi](https://ko-fi.com/jedymatt)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
