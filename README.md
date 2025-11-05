@@ -5,8 +5,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedymatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jedymatt) 
+-->
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
