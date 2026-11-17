@@ -13,6 +13,7 @@ Software engineer from the Philippines. I build web apps with TypeScript and Lar
 | Project | What it does |
 | --- | --- |
 | [**sqlalchemyseed**](https://github.com/jedymatt/sqlalchemyseed) ![stars](https://img.shields.io/github/stars/jedymatt/sqlalchemyseed?style=flat-square&label=%E2%98%85&color=555) | Seed SQLAlchemy models from JSON, YAML or CSV · Python |
+| [**sari_scan**](https://github.com/jedymatt/sari_scan) ![stars](https://img.shields.io/github/stars/jedymatt/sari_scan?style=flat-square&label=%E2%98%85&color=555) | Barcode price scanner and utang notebook for sari-sari stores, [on Google Play](https://play.google.com/store/apps/details?id=dev.jedymatt.sari_scan) · Flutter |
 | [**laravel-sail-env**](https://github.com/jedymatt/laravel-sail-env) ![stars](https://img.shields.io/github/stars/jedymatt/laravel-sail-env?style=flat-square&label=%E2%98%85&color=555) | Sets up a `.env` file to match Laravel Sail's environment variables · PHP |
 | [**ai-profile-manager**](https://github.com/jedymatt/ai-profile-manager) | Switch between personal Claude Code profiles on top of a team's config, without leaking into git · Rust |
 | [**skills**](https://github.com/jedymatt/skills) | My personal Claude Code skills, installable via skills.sh · Shell |
