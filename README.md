@@ -1,13 +1,24 @@
-# 💫 About Me:
+# Hi, I'm Jed 👋
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedymatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Software engineer from the Philippines. I build web apps with TypeScript and Laravel, and small open-source tools that take the boring parts out of a dev setup.
+
+🌐 [jedymatt.dev](https://jedymatt.dev)
+
+### 🛠️ Tools I use
+
+[![My skills](https://skillicons.dev/icons?i=ts,php,py,rust,dart,nextjs,vue,laravel,tailwind,flutter,mongodb,postgres,firebase,docker,vercel&perline=8)](https://skillicons.dev)
+
+### 📌 Featured projects
+
+| Project | What it does |
+| --- | --- |
+| [**sqlalchemyseed**](https://github.com/jedymatt/sqlalchemyseed) ![stars](https://img.shields.io/github/stars/jedymatt/sqlalchemyseed?style=flat-square&label=%E2%98%85&color=555) | Seed SQLAlchemy models from JSON, YAML or CSV · Python |
+| [**laravel-sail-env**](https://github.com/jedymatt/laravel-sail-env) ![stars](https://img.shields.io/github/stars/jedymatt/laravel-sail-env?style=flat-square&label=%E2%98%85&color=555) | Sets up a `.env` file to match Laravel Sail's environment variables · PHP |
+| [**ai-profile-manager**](https://github.com/jedymatt/ai-profile-manager) | Switch between personal Claude Code profiles on top of a team's config, without leaking into git · Rust |
+| [**skills**](https://github.com/jedymatt/skills) | My personal Claude Code skills, installable via skills.sh · Shell |
+| [**mystery-fruits-js**](https://github.com/jedymatt/mystery-fruits-js) ![stars](https://img.shields.io/github/stars/jedymatt/mystery-fruits-js?style=flat-square&label=%E2%98%85&color=555) | Guess the 3 fruits in the right order within 6 tries · Vue |
 
 <!--
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jedymatt) 
 -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
