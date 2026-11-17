@@ -8,6 +8,15 @@ Software engineer from the Philippines. I build web apps with TypeScript and Lar
 
 [![My skills](https://skillicons.dev/icons?i=ts,php,py,rust,dart,nextjs,vue,laravel,tailwind,flutter,mongodb,postgres,firebase,docker,vercel&perline=8)](https://skillicons.dev)
 
+### 🤖 AI tools I use
+
+- [**Claude Code**](https://github.com/anthropics/claude-code): Anthropic's coding agent, in the terminal
+- [**Superpowers**](https://github.com/obra/superpowers): skills for a disciplined dev workflow (brainstorm, plan, TDD, debug)
+- [**Matt Pocock's skills**](https://github.com/mattpocock/skills): skills for real engineers, from his `.agents` directory
+- [**Wondel.ai skills**](https://github.com/wondelai/skills): coding, UX and architecture frameworks from well-known books
+- [**awesome-gamedev-agent-skills**](https://github.com/gamedev-skills/awesome-gamedev-agent-skills): game-dev skills for Godot, Unity, Unreal, Phaser and more
+- [**rtk**](https://github.com/rtk-ai/rtk): CLI proxy that cuts LLM token use on common dev commands
+
 ### 📌 Featured projects
 
 | Project | What it does |
